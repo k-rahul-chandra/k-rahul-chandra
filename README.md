@@ -4,7 +4,6 @@
 
 I'm **Rahul Chandra** — a developer who enjoys building useful things, learning new technologies, and turning ideas into reality.
 
-### 🚀 Tech Stack
 ## 🚀 Tech Stack
 
 <p>
