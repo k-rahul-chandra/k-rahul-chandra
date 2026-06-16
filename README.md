@@ -6,7 +6,7 @@ I'm **Rahul Chandra** — a developer who enjoys building useful things, learnin
 
 ### 🚀 Tech Stack
 
-Frontend  ▸ React • Next.js • TypeScript
-Backend   ▸ Node.js • Python • Express
-Database  ▸ PostgreSQL • MongoDB
-Tools     ▸ Git • Docker • VS Code
+Frontend  ▸ React • Next.js • TypeScript<br>
+Backend   ▸ Node.js • Python • Express<br>
+Database  ▸ PostgreSQL • MongoDB<br>
+Tools     ▸ Git • Docker • VS Code<br>
