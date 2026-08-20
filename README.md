@@ -1,5 +1,7 @@
-  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Rahul's Banner"></p>
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Rahul Chandra</h2><p></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k-rahul-chandra/k-rahul-chandra/main/assets/git_banner.png" alt="Rahul's Banner" width="100%">
+</p>
+<p><h2>Hey there! I’m Rahul Chandra</h2></p>
 
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to devote my self in achieving a specific goal and have fun.<br>
