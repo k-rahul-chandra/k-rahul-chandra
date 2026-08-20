@@ -6,7 +6,7 @@
 🎓 &nbsp;I’m currently studying Artificial Intelligence and Machine Learning at the Malla Reddy University.<br>
 🌱 &nbsp;I’m on track for learning more about Agentic AI, Systems Design, and Cloud Architecture.<br>
 ✍️ &nbsp;In my free time, I checkout random websites and learn from them as hobbies/side hustles.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
+✉️ &nbsp;You can shoot me an email at <a href="mailto:rahulchandrakarupakala@gmail.com">rahulchandrakarupakala@gmail.com</a>! I’ll try to respond as soon as I can.<br>
 📄 &nbsp;You can have a look at my <a href="https://rahul-resume.in">Portfolio</a> for more details about me. I’m open to feedback and suggestions!</p>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 <h3 id="-tech-stack">🛠️ &nbsp;Tech Stack</h3>
